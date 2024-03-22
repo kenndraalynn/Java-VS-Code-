@@ -1,7 +1,7 @@
-let userName = 'Kendra';
+let userName = '';
 console.log('Hello ' + userName + '!' + ' What is your age?');
 
-let age = 23;
+let age = '';
 
 if (age >= 97) {
     console.log(userName + ' , your age is ' + age + '. You are in the WWII generation');
